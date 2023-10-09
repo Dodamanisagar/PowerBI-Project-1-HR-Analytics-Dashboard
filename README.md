@@ -1,11 +1,11 @@
 # PowerBI-Project-1-HR-Analytics-Dashboard
 This is my first PowerBI dashboard!
 
-##🎯 OBJECTIVE
+## OBJECTIVE :-
 Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard. 
 
 
-##🚀 THE JOURNEY
+## THE JOURNEY :-
 - Data Cleaning & Processing in Power BI 
 - Power BI Dashboard Setup 
 - Import data in Power BI 
