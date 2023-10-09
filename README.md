@@ -22,6 +22,6 @@ Help an organization to improve employee performance and improve employee retent
 ℹ️ It displays key insights related to employee attritions, attrition rate, attrition by education, attrition by age, attrition by salary slab, attrition by job role etc.
 
 
-###🛠 TOOL USED
+### TOOL USED :-
 Microsoft PowerBI
 
