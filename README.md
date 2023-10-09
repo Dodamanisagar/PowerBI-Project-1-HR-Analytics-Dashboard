@@ -18,7 +18,7 @@ Help an organization to improve employee performance and improve employee retent
 - Insights from Dashboard
 
 
-ℹ️ This dashboard is completely dynamic and interactive and is operated by using the filters.
+ℹ️ This dashboard is completely dynamic and interactive and is operated by using the filters.  
 ℹ️ It displays key insights related to employee attritions, attrition rate, attrition by education, attrition by age, attrition by salary slab, attrition by job role etc.
 
 
