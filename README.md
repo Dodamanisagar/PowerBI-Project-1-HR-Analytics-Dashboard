@@ -1,6 +1,13 @@
 # PowerBI-Project-1-HR-Analytics-Dashboard
 This is my first PowerBI dashboard!
 
+![Screenshot 2023-10-12 125752](https://github.com/Dodamanisagar/PowerBI-Project-1-HR-Analytics-Dashboard/assets/99800998/30d7f36e-d217-4a0d-8e2b-b81f6477939f)
+
+
+
+
+
+
 ## OBJECTIVE :-
 Help an organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR Analytics dashboard. 
 
